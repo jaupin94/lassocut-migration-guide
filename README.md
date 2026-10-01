@@ -7,7 +7,7 @@ The remove.bg website, its self-service API (`api.remove.bg`) and its plugins st
 + https://api.lassocut.com/v1.0/removebg
 ```
 
-Full guide with a parameter-by-parameter table: <https://www.lassocut.com/migrate/>
+Full guide with a parameter-by-parameter table: [remove.bg API migration guide](https://www.lassocut.com/migrate/). What stops on 1 December and when: [remove.bg shutdown explained](https://www.lassocut.com/remove-bg-shutdown/).
 
 ## Examples
 
@@ -61,15 +61,15 @@ For any other HTTP client, replace the base URL `https://api.remove.bg/v1.0` wit
 | `GET /v1.0/account` | Yes, same response shape |
 | `POST /v1.0/improve` | Yes |
 
-Results are produced by LassoCut's own models, so edges can differ slightly from the results you had before. Reference: <https://www.lassocut.com/docs/>
+Results are produced by LassoCut's own models, so edges can differ slightly from the results you had before. Reference: [background removal API docs](https://www.lassocut.com/docs/)
 
 ## Plugins
 
-LassoCut also has plugins for Photoshop, Figma, GIMP 3, WordPress/WooCommerce, n8n, Zapier and Make, plus a command-line tool: <https://www.lassocut.com/platforms/>
+LassoCut also has plugins for Photoshop, Figma, GIMP 3, WordPress/WooCommerce, n8n, Zapier and Make, plus a command-line tool: [LassoCut plugins and integrations](https://www.lassocut.com/platforms/)
 
 ## Pricing
 
-Credit packs, no subscription, credits never expire: $9 / 100, $39 / 1,000, $249 / 10,000, $1,500 / 100,000. <https://www.lassocut.com/pricing/>
+Credit packs, no subscription, credits never expire: $9 / 100, $39 / 1,000, $249 / 10,000, $1,500 / 100,000. [LassoCut pricing](https://www.lassocut.com/pricing/)
 
 ---
 
