@@ -20,7 +20,7 @@ Each file in [`examples/`](examples/) is a minimal, complete call. All four were
 | Node.js 18+ (built-in fetch) | [`examples/node.mjs`](examples/node.mjs) | <https://www.lassocut.com/guides/node/> |
 | PHP (curl extension) | [`examples/php.php`](examples/php.php) | <https://www.lassocut.com/guides/php/> |
 
-Set your key first: `export LASSOCUT_API_KEY=...` (get one free at <https://www.lassocut.com/account/>). `size=preview` costs 0.25 credit, and every account gets 50 free previews a month.
+Set your key first: `export LASSOCUT_API_KEY=...` (get one free at <https://www.lassocut.com/account/>). `size=preview` costs 0.25 credit, and every account gets 50 free previews a month (up to 10 a day).
 
 ## Existing client libraries
 
